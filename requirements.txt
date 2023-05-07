@@ -2,7 +2,6 @@ matplotlib
 streamlit-modal
 pandas
 folium
-json
 numpy
 
 
