@@ -3,5 +3,6 @@ streamlit-modal
 pandas
 folium
 numpy
+streamlit-folium
 
 
