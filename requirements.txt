@@ -4,5 +4,5 @@ pandas
 folium
 numpy
 streamlit-folium
-
+geopandas
 
